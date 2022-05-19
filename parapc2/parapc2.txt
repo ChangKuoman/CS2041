@@ -1,0 +1,4 @@
+
+r \div s no es primitivo, por lo que
+
+\pi _{R-S} (r) - \pi _{R-S} (\pi _{R-S}(r) x (s)) - \pi _{R-S, S}(r)
